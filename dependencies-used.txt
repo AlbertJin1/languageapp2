@@ -9,3 +9,5 @@ npm install react-native-safe-area-context
 npm i @react-navigation/stack
 
 npm i @expo-google-fonts/poppins
+
+npm i expo-doctor

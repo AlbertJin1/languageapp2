@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "languageapp",
+    "name": "Language App",
     "slug": "languageapp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
@@ -29,7 +29,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "33356d15-5a0d-4fe6-8d94-da3004f58a4c"
+        "projectId": "fcc9e355-c187-4878-9ca9-ddaef1e0b99b"
       }
     },
     "plugins": [
