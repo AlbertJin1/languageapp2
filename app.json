@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "languageapp2",
-    "slug": "languageapp2",
+    "name": "languageapp",
+    "slug": "languageapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.languageapp.languageapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "33356d15-5a0d-4fe6-8d94-da3004f58a4c"
+      }
     }
   }
 }
